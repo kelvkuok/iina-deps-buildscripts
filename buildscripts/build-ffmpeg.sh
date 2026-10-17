@@ -53,6 +53,7 @@ build_for_arch() {
         --enable-libwebp \
         --enable-libjxl \
         --enable-libsvtav1 \
+        --enable-libmysofa \
         --enable-libbs2b \
         --enable-libsoxr \
         --enable-librubberband \

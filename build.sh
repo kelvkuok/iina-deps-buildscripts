@@ -109,6 +109,7 @@ run buildscripts/build-lz4.sh              # compression algorithm used by libar
 run buildscripts/build-zstd.sh             # compression algorithm used by libarchive
 run buildscripts/build-zimg.sh             # image scaling algorithm used by mpv's zscale filter
 run buildscripts/build-openssl.sh          # TLS backend for FFmpeg (https, including TLS 1.3); linked statically
+run buildscripts/build-libmysofa.sh        # SOFA HRTF support for FFmpeg
 run buildscripts/build-libbs2b.sh          # binaural audio filter
 run buildscripts/build-libsoxr.sh          # high-quality resampling
 
